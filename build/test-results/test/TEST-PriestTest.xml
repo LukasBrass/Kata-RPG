@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PriestTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2020-07-13T09:12:50" hostname="MacBook-Pro-de-Lukas.local" time="0.016">
+  <properties/>
+  <testcase name="healSomeoneinSameAssemblyOK()" classname="PriestTest" time="0.001"/>
+  <testcase name="healSomeoneNotInFriendAssemblyNOK()" classname="PriestTest" time="0.001"/>
+  <testcase name="healSomeoneNotInFactionNOK()" classname="PriestTest" time="0.001"/>
+  <testcase name="healSomeoneInFriendFactionOK()" classname="PriestTest" time="0.001"/>
+  <testcase name="healHimselfOK()" classname="PriestTest" time="0.003"/>
+  <testcase name="healSomeoneOverTheTopNOK()" classname="PriestTest" time="0.001"/>
+  <testcase name="healSomeoneFromFriendAssemblyOK()" classname="PriestTest" time="0.001"/>
+  <testcase name="healSomeoneInFactionOK()" classname="PriestTest" time="0.001"/>
+  <system-out><![CDATA[100
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

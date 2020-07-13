@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="WarriorTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2020-07-13T09:12:50" hostname="MacBook-Pro-de-Lukas.local" time="0.04">
+  <properties/>
+  <testcase name="hurtSomeoneNotInSameAssembly()" classname="WarriorTest" time="0.025"/>
+  <testcase name="hurtSomeoneInFactionNOK()" classname="WarriorTest" time="0.001"/>
+  <testcase name="hurtSomeoneInFriendFactionNOK()" classname="WarriorTest" time="0.001"/>
+  <testcase name="hurtSomeoneInSameAssemblyNOK()" classname="WarriorTest" time="0.001"/>
+  <testcase name="healHimselfOK()" classname="WarriorTest" time="0.001"/>
+  <testcase name="hurtHimselfOK()" classname="WarriorTest" time="0.001"/>
+  <testcase name="hurtSomeoneNotInFactionOK()" classname="WarriorTest" time="0.001"/>
+  <testcase name="healHimselfOverTheTopNOK()" classname="WarriorTest" time="0.001"/>
+  <testcase name="hurtSomeoneInFriendAssemblyNOK()" classname="WarriorTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

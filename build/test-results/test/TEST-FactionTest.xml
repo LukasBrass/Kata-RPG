@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="FactionTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2020-07-13T09:12:50" hostname="MacBook-Pro-de-Lukas.local" time="0.01">
+  <properties/>
+  <testcase name="removeFriendFromListOK()" classname="FactionTest" time="0.001"/>
+  <testcase name="addCharacterOK()" classname="FactionTest" time="0.002"/>
+  <testcase name="addFriendListOK()" classname="FactionTest" time="0.002"/>
+  <testcase name="removeCharacterOK()" classname="FactionTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
